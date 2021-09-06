@@ -77,7 +77,7 @@ public class Autos{
         carro1.add(modelo);
         carro1.add(horaentrada);
         carro1.add(horasalida);
-        System.out.println("Caracteristicas del Carro: " +carro1);
+        System.out.println("Caracteristicas del Carro 1: " +carro1);
         return;
     }
 
@@ -88,7 +88,7 @@ public class Autos{
         carro2.add(modelo);
         carro2.add(horaentrada);
         carro2.add(horasalida);
-        System.out.println("Caracteristicas del Carro: " +carro2);
+        System.out.println("Caracteristicas del Carro 2: " +carro2);
         return;
     }
 }
